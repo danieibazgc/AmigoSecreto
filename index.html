@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;400;700;900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="icon" href="assets/icono.png" type="image/x-icon">
+    <title>Amigo Secreto</title>
+</head>
+<body>
+    <main class="main-content">
+        <header class="header-banner">
+            <h1 class="main-title">Amigo Secreto</h1>
+            <img src="assets/amigo-secreto.png" alt="Imagen representativa de amigo secreto" class="header-img">
+        </header>
+        
+        <section class="input-section">
+            <h1 class="section-title">Digite el nombre de sus amigos</h1>
+            <div class="input-wrapper">
+                <input type="text" id="amigo" class="input-name" placeholder="Escribe un nombre">
+                <button id="button-add" class="button-add" onclick="agregarAmigo();">Añadir</button>
+            </div>
+            <div id="mensaje" style="color: red; font-weight: bold;"></div>
+            <h2 id="tituloListaAmigos" class="list-title ocultar">Lista de Amigos Ingresados</h2>
+            <ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos" role="list"></ul>
+            
+
+            <div class="button-container">
+                <button class="button-draw" onclick="sortearAmigo()" aria-label="Sortear amigo secreto">
+                    <img class="button-draw-img" src="assets/play_circle_outline.png" alt="Ícono para sortear">
+                    <span class="button-text">Sortear amigo</span>
+                </button>
+            </div>
+            <h2 id="tituloResultado" class="list-title ocultar">Su amigo secreto es:</h2>
+            <span id="resultadoAmigo" style="color: green; text-decoration: underline; font-weight: bold;"></span>
+            <ul id="resultado" class="result-list" aria-live="polite"></ul>
+
+            <div class="button-reset">
+                <button class="button-reset" onclick="reiniciarSorteo()" aria-label="Resetear lista de amigos">
+                    <img class="button-reset-img" src="assets/trash.png" alt="Ícono para resetear">
+                    <span class="button-text">Resetear</span>
+                </button>
+            </div>
+        </section>
+    </main>
+    <script src="app.js" defer></script>
+</body>
+</html>
