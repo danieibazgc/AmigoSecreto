@@ -42,7 +42,6 @@ Si tienes sugerencias o encuentras errores, puedes contribuir de las siguientes 
 - **Enviar un pull request** con tus modificaciones.
 
 ## Contacto 🌐
-Si quieres saber más sobre el proyecto o colaborar, puedes encontrarme en:
 **Desarrollador**: Daniel Ibañez
 **GitHub**: **[danieibazgc](https://github.com/danieibazgc)**
 **Instagram**: **[Instagram](https://www.instagram.com/danieibazgc/)**
