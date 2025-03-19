@@ -36,9 +36,6 @@ Abre el archivo `index.html` en tu navegador para interactuar con la aplicación
 3. **Visualizar resultados**: Se mostrarán los emparejamientos en pantalla.
 4. **Reiniciar**: Si deseas realizar un nuevo sorteo, presiona el botón **Reset** para empezar desde cero.
 
-## Capturas de pantalla 📸
-![Texto alternativo](assets/SS.png)
-
 ## Contribuciones 🤝
 Si tienes sugerencias o encuentras errores, puedes contribuir de las siguientes maneras:
 - **Abrir un issue** para reportar problemas o proponer mejoras.
