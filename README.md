@@ -1,10 +1,9 @@
-# Amigo Secreto 🎉👫
-*AluraLatam & Oracle*
+# Challenge Amigo Secreto 🎁🎉
 
 ## Descripción ✨
-**Amigo Secreto** es una aplicación web interactiva que permite a un grupo de personas organizar un sorteo de amigo secreto. Los participantes pueden agregar sus nombres, sortear los amigos secretos de manera aleatoria y ver los resultados al instante. Además, cuenta con un diseño moderno y responsivo que se adapta a distintos dispositivos y tamaños de pantalla.
+**Amigo Secreto** es una aplicación web que facilita la organización de un sorteo entre un grupo de personas. Permite ingresar los nombres de los participantes, realizar un sorteo aleatorio y visualizar los resultados de manera inmediata.
 
-Este proyecto está hecho con **HTML**, **CSS** y **JavaScript**, y tiene como objetivo proporcionar una solución divertida y dinámica para hacer sorteos de amigos secretos.
+El proyecto está desarrollado con **HTML**, **CSS** y **JavaScript**, ofreciendo una interfaz atractiva y completamente adaptable a distintos dispositivos.
 
 ## Funcionalidades 🚀
 - **Agregar amigos**: Los usuarios pueden agregar sus nombres a la lista de amigos utilizando campos de texto.
@@ -28,24 +27,25 @@ Este proyecto está hecho con **HTML**, **CSS** y **JavaScript**, y tiene como o
 git clone https://github.com/danieibazgc/AmigoSecreto.git
 ```
 
-### 2. Abre el archivo `index.html`:
-Después de clonar el repositorio, abre el archivo `index.html` en tu navegador web favorito para ver la aplicación en funcionamiento.
+### 2. Ejecuta la aplicación:
+Abre el archivo `index.html` en tu navegador para interactuar con la aplicación.
 
-## Uso 📝
-1. **Agregar amigos**: Ingresa los nombres de los amigos en los campos correspondientes y haz clic en **Agregar**.
-2. **Sortear**: Haz clic en el botón **Sortear** para asignar aleatoriamente un amigo secreto a cada persona en la lista.
-3. **Ver resultados**: Los resultados del sorteo se muestran en pantalla.
-4. **Resetear**: Si deseas comenzar de nuevo, haz clic en el botón **Reset** para limpiar la lista y el sorteo.
+## ¿Cómo usar la aplicación? 📝
+1. **Añadir nombres**: Introduce los nombres de los participantes y presiona el botón **Agregar**.
+2. **Iniciar sorteo**: Al hacer clic en **Sortear**, el sistema asignará un amigo secreto de manera aleatoria.
+3. **Visualizar resultados**: Se mostrarán los emparejamientos en pantalla.
+4. **Reiniciar**: Si deseas realizar un nuevo sorteo, presiona el botón **Reset** para empezar desde cero.
 
 ## Capturas de pantalla 📸
 ![Texto alternativo](assets/SS.png)
 
 ## Contribuciones 🤝
-Las contribuciones son siempre bienvenidas. Si encuentras algún error o tienes ideas para mejorar el proyecto, puedes hacer lo siguiente:
-- **Crear un issue** para reportar un error o sugerir una mejora.
-- **Hacer un pull request** con tus cambios.
+Si tienes sugerencias o encuentras errores, puedes contribuir de las siguientes maneras:
+- **Abrir un issue** para reportar problemas o proponer mejoras.
+- **Enviar un pull request** con tus modificaciones.
 
-## Conéctate conmigo 🌐
+## Contacto 🌐
+Si quieres saber más sobre el proyecto o colaborar, puedes encontrarme en:
 **Desarrollador**: Daniel Ibañez
 **GitHub**: **[danieibazgc](https://github.com/danieibazgc)**
 **Instagram**: **[Instagram](https://www.instagram.com/danieibazgc/)**
